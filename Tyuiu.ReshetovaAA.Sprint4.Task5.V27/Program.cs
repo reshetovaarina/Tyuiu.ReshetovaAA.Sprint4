@@ -1,7 +1,7 @@
 ﻿using System;
 using Tyuiu.ReshetnikovaAA.Sprint4.Task4.V27.Lib;
 
-namespace Tyuiu.ReshetnikovaAA.Sprint4.Task4.V27
+namespace Tyuiu.ReshetnikovaAA.Sprint4.Task5.V27
 {
     class Program
     {
