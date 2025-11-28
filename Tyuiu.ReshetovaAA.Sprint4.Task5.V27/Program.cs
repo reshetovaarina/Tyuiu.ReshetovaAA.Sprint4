@@ -1,13 +1,13 @@
 ﻿using System;
-using Tyuiu.ReshetnikovaAA.Sprint4.Task4.V27.Lib;
+using Tyuiu.ReshetovaAA.Sprint4.Task5.V27.Lib;
 
-namespace Tyuiu.ReshetnikovaAA.Sprint4.Task5.V27
+namespace Tyuiu.ReshetovaAA.Sprint4.Task5.V27
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #4 | Задача 4 | Вариант 27";
+            Console.Title = "Спринт #4 | Задача 5 | Вариант 27";
 
             DataService ds = new DataService();
 
